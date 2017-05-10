@@ -1,0 +1,9 @@
+*/.mp4
+*/.bak
+
+service/App_Data/
+
+resource/audio/
+resource/photo/
+resource/video/
+resource/
